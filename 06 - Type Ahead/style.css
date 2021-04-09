@@ -72,3 +72,8 @@ span.population {
 .hl {
   background: #ffc600;
 }
+
+.suggestions .error {
+	color: red;
+	text-transform: none;
+}
